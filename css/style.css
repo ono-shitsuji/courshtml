@@ -15,14 +15,17 @@ button hover {
   font-size: 16px;
 } 
 head {
-        background-color: #3cc9d9;
-      } 
-      body {
-        background-color: #905ef4;
-      } 
-     p {
-  background-color: rgb(13, 216, 91);
+  background-color: #3cc9d9;
 } 
+body {
+   background-color: #905ef4;
+} 
+
+p {
+   background-color: rgb(216, 13, 162);
+
+}
+
 .element {
   border: 2px solid #3498db;
   border-radius: 15px;
@@ -39,3 +42,18 @@ button hover {
 .element 
 background ,linear-gradient{ right: rgb(194, 6, 6), rgb(245, 245, 4)};
 background ,linear-gradient{left: rgb(47, 47, 206), rgb(6, 243, 6)} 
+.header { 
+  color:#f80713
+} 
+.h3 { 
+  color:#f80713
+} 
+head{ 
+width: 70%;
+ 
+  margin:auto;
+} 
+header{ 
+  border: 40px,
+  outset;
+}
