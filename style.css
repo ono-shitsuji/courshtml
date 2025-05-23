@@ -1,0 +1,41 @@
+p {
+  background-color: rgb(13, 216, 91);
+} 
+.element {
+  border: 2px solid #3498db;
+  border-radius: 15px;
+  padding: 80px;
+}
+button hover {
+  background-color: #f80713; /* Green */
+  color: rgb(204, 13, 13);
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+} 
+head {
+        background-color: #3cc9d9;
+      } 
+      body {
+        background-color: #905ef4;
+      } 
+     p {
+  background-color: rgb(13, 216, 91);
+} 
+.element {
+  border: 2px solid #3498db;
+  border-radius: 15px;
+  padding: 80px;
+}
+button hover {
+  background-color: #f80713; /* Green */
+  color: rgb(204, 13, 13);
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+} 
+.element 
+background ,linear-gradient{ right: rgb(194, 6, 6), rgb(245, 245, 4)};
+background ,linear-gradient{left: rgb(47, 47, 206), rgb(6, 243, 6)} 
